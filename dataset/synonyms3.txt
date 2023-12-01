@@ -1,0 +1,65 @@
+happy, joyful, delighted, content, pleased, ecstatic, elated, cheerful, gleeful, euphoric
+sad, unhappy, sorrowful, melancholy, glum, downcast, gloomy, dejected, disheartened, miserable
+fast, quick, speedy, rapid, swift, brisk, fleet, hasty, expeditious, prompt
+buy, purchase, acquire, obtain, procure, get, secure, attain, grab, invest in
+small, tiny, little, miniature, petite, minuscule, compact, slight, diminutive, undersized
+big, large, huge, massive, enormous, gigantic, colossal, immense, mammoth, vast
+smart, clever, intelligent, brilliant, sharp, astute, knowledgeable, wise, bright, brainy
+friend, buddy, pal, chum, companion, comrade, confidant, mate, amigo, ally
+enemy, foe, adversary, opponent, antagonist, rival, nemesis, hostile, combatant, challenger
+start, begin, commence, initiate, launch, inaugurate, originate, kick off, embark on, open, set in motion
+end, finish, conclude, terminate, complete, wrap up, finalize, bring to an end, close, stop
+happy, joyful, delighted, content, pleased, ecstatic, elated, cheerful, gleeful, euphoric, satisfied
+angry, furious, enraged, irate, wrathful, incensed, mad, indignant, outraged, livid
+rich, wealthy, affluent, prosperous, well-off, opulent, moneyed, well-to-do, loaded, flush
+poor, impoverished, needy, penniless, destitute, indigent, underprivileged, broke, insolvent, impecunious
+love, adore, cherish, admire, worship, treasure, appreciate, dote on, care for, be fond of
+hate, despise, loathe, detest, abhor, abominate, execrate, disdain, feel contempt for, have an aversion to
+kind, compassionate, benevolent, generous, considerate, caring, empathetic, sympathetic, tender, gentle
+cruel, ruthless, heartless, merciless, pitiless, brutal, sadistic, inhumane, unkind, harsh
+old, elderly, senior, aged, mature, ancient, older, venerable, hoary, antique
+young, youthful, adolescent, juvenile, teen, teenage, fresh, youthful, tender, green
+easy, simple, straightforward, uncomplicated, effortless, painless, unchallenging, facile, undemanding, elementary
+difficult, challenging, complex, complicated, hard, arduous, tough, demanding, intricate, onerous
+beautiful, gorgeous, stunning, attractive, lovely, pretty, charming, elegant, exquisite, appealing
+ugly, unattractive, repulsive, unsightly, hideous, homely, plain, grotesque, unappealing, disfigured
+fast, quick, speedy, rapid, swift, brisk, fleet, hasty, expeditious, prompt, nimble
+slow, sluggish, unhurried, leisurely, plodding, gradual, tardy, laggard, lethargic, crawling
+good, excellent, outstanding, superb, exceptional, superior, top-notch, first-rate, splendid, terrific
+bad, poor, inferior, subpar, mediocre, lousy, awful, dreadful, abysmal, terrible
+happy, joyful, delighted, content, pleased, ecstatic, elated, cheerful, gleeful, euphoric, overjoyed
+sad, unhappy, sorrowful, melancholy, glum, downcast, gloomy, dejected, disheartened, miserable, despondent
+smart, clever, intelligent, brilliant, sharp, astute, knowledgeable, wise, bright, brainy, ingenious
+stupid, foolish, unintelligent, dense, dim-witted, daft, idiotic, moronic, slow-witted, witless
+easy, simple, straightforward, uncomplicated, effortless, painless, unchallenging, facile, undemanding, elementary, basic
+hard, difficult, challenging, complex, complicated, arduous, tough, demanding, intricate, onerous, strenuous
+rich, wealthy, affluent, prosperous, well-off, opulent, moneyed, well-to-do, loaded, flush, comfortable
+poor, impoverished, needy, penniless, destitute, indigent, underprivileged, broke, insolvent, impecunious, disadvantaged
+beautiful, gorgeous, stunning, attractive, lovely, pretty, charming, elegant, exquisite, appealing, captivating
+ugly, unattractive, repulsive, unsightly, hideous, homely, plain, grotesque, unappealing, disfigured, revolting
+love, adore, cherish, admire, worship, treasure, appreciate, dote on, care for, be fond of, infatuated with
+hate, despise, loathe, detest, abhor, abominate, execrate, disdain, feel contempt for, have an aversion to, detest
+kind, compassionate, benevolent, generous, considerate, caring, empathetic, sympathetic, tender, gentle, warm-hearted
+cruel, ruthless, heartless, merciless, pitiless, brutal, sadistic, inhumane, unkind, harsh, cold-blooded
+old, elderly, senior, aged, mature, ancient, older, venerable, hoary, antique, elderly
+young, youthful, adolescent, juvenile, teen, teenage, fresh, youthful, tender, green, youthful
+easy, simple, straightforward, uncomplicated, effortless, painless, unchallenging, facile, undemanding, elementary, basic, simple
+difficult, challenging, complex, complicated, hard, arduous, tough, demanding, intricate, onerous, strenuous, challenging
+good, excellent, outstanding, superb, exceptional, superior, top-notch, first-rate, splendid, terrific, wonderful
+bad, poor, inferior, subpar, mediocre, lousy, awful, dreadful, abysmal, terrible, horrendous
+happy, joyful, delighted, content, pleased, ecstatic, elated, cheerful, gleeful, euphoric, overjoyed, exuberant
+sad, unhappy, sorrowful, melancholy, glum, downcast, gloomy, dejected, disheartened, miserable, despondent
+smart, clever, intelligent, brilliant, sharp, astute, knowledgeable, wise, bright, brainy, ingenious, brilliant
+stupid, foolish, unintelligent, dense, dim-witted, daft, idiotic, moronic, slow-witted, witless, dumb
+easy, simple, straightforward, uncomplicated, effortless, painless, unchallenging, facile, undemanding, elementary, basic, simple, straightforward
+hard, difficult, challenging, complex, complicated, arduous, tough, demanding, intricate, onerous, strenuous, challenging, difficult
+rich, wealthy, affluent, prosperous, well-off, opulent, moneyed, well-to-do, loaded, flush, comfortable, affluent
+poor, impoverished, needy, penniless, destitute, indigent, underprivileged, broke, insolvent, impecunious, disadvantaged, impoverished
+beautiful, gorgeous, stunning, attractive, lovely, pretty, charming, elegant, exquisite, appealing, captivating, enchanting
+ugly, unattractive, repulsive, unsightly, hideous, homely, plain, grotesque, unappealing, disfigured, revolting, grotesque
+love, adore, cherish, admire, worship, treasure, appreciate, dote on, care for, be fond of, infatuated with, adore
+hate, despise, loathe, detest, abhor, abominate, execrate, disdain, feel contempt for, have an aversion to, detest, abhor
+kind, compassionate, benevolent, generous, considerate, caring, empathetic, sympathetic, tender, gentle, warm-hearted, compassionate
+cruel, ruthless, heartless, merciless, pitiless, brutal, sadistic, inhumane, unkind, harsh, cold-blooded, ruthless
+old, elderly, senior, aged, mature, ancient, older, venerable, hoary, antique, elderly, aged
+young, youthful, adolescent, juvenile, teen, teenage, fresh, youthful, tender, green, youthful, teenaged
